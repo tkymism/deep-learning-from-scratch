@@ -1,10 +1,7 @@
 ゼロから作る Deep Learning
 ==========================
 
-本リポジトリは、オライリー・ジャパン発行書籍『[ゼロから作る Deep Learning](http://www.oreilly.co.jp/books/9784873117584/)』のサポートサイトです。
-
-[![book](https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/deep-learning-from-scratch.png)](http://www.oreilly.co.jp/books/9784873117584/)
-
+本リポジトリは、オライリー・ジャパン発行書籍『[ゼロから作る Deep Learning](http://www.oreilly.co.jp/books/9784873117584/)』の学習に使用します。
 
 ## ファイル構成
 
@@ -45,12 +42,4 @@ $ python train_nueralnet.py
 
 本リポジトリのソースコードは[MITライセンス](http://www.opensource.org/licenses/MIT)です。
 商用・非商用問わず、自由にご利用ください。
-
-## 正誤表
-
-本書の正誤情報は以下のページで公開しています。
-
-https://github.com/oreilly-japan/deep-learning-from-scratch/wiki/errata
-
-本ページに掲載されていない誤植など間違いを見つけた方は、[japan＠oreilly.co.jp](<mailto:japan＠oreilly.co.jp>)までお知らせください。
 
